@@ -1,3 +1,5 @@
 Note on the latest commit.
 
 heimdall_ignore foo-bar:node:1
+
+heimdall_ignore foo-bar:node:2
