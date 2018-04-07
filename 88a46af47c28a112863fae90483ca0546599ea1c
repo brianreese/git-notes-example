@@ -1,1 +1,3 @@
 heimdall_ignore foo-element,bar-element
+
+heimdall_ignore baz-element
