@@ -1,0 +1,5 @@
+
+heimdall_ignore foo-element
+heimdall_ignore bar-element,foo-bar-element
+heimdall_ignore baz-element:node:1,foo-bar-baz-element
+
