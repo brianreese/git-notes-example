@@ -5,3 +5,7 @@ heimdall_ignore foo-bar:node:1
 heimdall_ignore foo-bar:node:2
 
 random string
+
+heimdall_ignore header-region:*
+foobarbaz
+heimdall_ignore footer-region
