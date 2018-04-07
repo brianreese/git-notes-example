@@ -1,1 +1,3 @@
 heimdall_ignore header-region:node:1
+
+heimdall_ignore header-region:node:2
